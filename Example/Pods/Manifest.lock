@@ -1,0 +1,16 @@
+PODS:
+  - DHFramework (0.1.0)
+
+DEPENDENCIES:
+  - DHFramework (from `../`)
+
+EXTERNAL SOURCES:
+  DHFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DHFramework: baebe76a161c8805574c0cdf040055b6dd5f0537
+
+PODFILE CHECKSUM: 8d99560f155593cb4e37828801f6412dc1be6922
+
+COCOAPODS: 1.11.3
